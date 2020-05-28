@@ -1,2 +1,2 @@
 var a=2;
-varb=2;
+var b=2;
